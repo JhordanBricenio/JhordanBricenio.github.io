@@ -258,7 +258,6 @@
     color: #f3f3f3;
     background-color: var(--secondaryColor);
   }
-  
   .btn-box {
     width: 125px;
     margin: auto;
@@ -475,7 +474,7 @@
   }
   
   .bg-dark {
-    background-color: black;
+    background-color:white;
   }
   .btn {
     padding: 0.8rem 1rem;
