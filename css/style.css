@@ -783,6 +783,9 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .shadow{
+    background-color: rgb(26, 24, 24);
+  }
   
   .movil-text {
     font-family: "Quicksand", sans-serif;
