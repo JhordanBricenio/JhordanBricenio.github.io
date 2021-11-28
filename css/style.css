@@ -481,7 +481,11 @@
     border: 0;
     border-radius: 0.4rem;
   }
-  
+  .btnn{
+    padding: 0.8rem 1rem;
+    border: 0;
+    border-radius: 0.4rem;
+  }
   .btn-secondary-outline:hover {
     color: rgba(255, 255, 255, 0.637);
   }
@@ -782,6 +786,9 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  .img-tam{
+    width: 50%;
   }
   .shadow{
     background-color: rgb(26, 24, 24);
